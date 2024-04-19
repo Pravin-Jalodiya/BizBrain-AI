@@ -21,6 +21,8 @@ BizBrain AI is an AI-powered platform for entrepreneurs. It analyzes business id
    ```bash
    pip install -r requirements.txt
    ```
+4. Create a .env file in the root directory and place your Openai API key in a variable named "OPEN_API_KEY" in that file
+    
 ## Usage
 
 1. Run the script
