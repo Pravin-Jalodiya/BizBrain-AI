@@ -1,0 +1,9 @@
+Author : Pravin
+
+------------------------------------------------UPDATES------------------------------------------------
+
+1. Modified generate_response_bmu function to make the system actually retry 5 times with a gap of 5 seconds between consecutive attempts if anything goes wrong while getting responses
+2. Modified the responseFormatter function to produce error free output
+3. Modified getResponse function to use URLSearchParam object following coding best practices
+4. Eliminated the use of innerHTML for faster rendering of page and faster response
+5. Improved the export button logic ie when the results container is empty you cannot export now while earlier you could export empty pdf after one successful response, we each response validates the functionality of export button each time 
