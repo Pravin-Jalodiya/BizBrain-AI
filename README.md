@@ -35,7 +35,7 @@ BizBrain AI is an AI-powered platform for entrepreneurs. It analyzes business id
 - Error Handling & Retry Mechanism
 - Dynamic Formatting
 - Faster Rendering
-- Lets user export the results in pdf format
+- Export the results in pdf format
 
 ## Sample Images
 <img width="1915" alt="BizBrain2" src="https://github.com/Pravin-Jalodiya/BizBrain-AI/assets/34760247/6b779e98-53dd-47b1-82ab-c00b846426d7">
